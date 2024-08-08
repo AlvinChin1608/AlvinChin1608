@@ -9,7 +9,8 @@
 <br/>
 
 <div align="center">
- 🌱 I’m currently learning **Python**
+🔭 I’m currently learning **Python**
+    
  </div>
  
 <div align="center"> 
