@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+My+Profile!;I'm+Alvin+Chin;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=PT+Serif&weight=300&size=25&duration=4000&pause=20&color=0E8C7F&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;I'm+Alvin+Chin" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">💬 Get in Touch</h3>
