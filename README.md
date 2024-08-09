@@ -1,14 +1,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=PT+Serif&weight=300&size=25&duration=4000&pause=20&color=0E8C7F&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;I'm+Alvin+Chin" alt="Typing SVG" />
 </h1>
-<div align="center">
-    <a href="https://linkedin.com/in/alvinchin168/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-    </a>
-    <a href="mailto:alvinwen3@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-    </a>
-</div>
 
 <h3 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h3>
 <p align="center">
@@ -31,4 +23,13 @@
 <div align="center">
   <img width="36%" src="https://github-readme-stats.vercel.app/api?username=AlvinChin1608&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
   <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinChin1608&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+</div>
+
+<div align="center">
+    <a href="https://linkedin.com/in/alvinchin168/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+    <a href="mailto:alvinwen3@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+    </a>
 </div>
