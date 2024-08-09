@@ -1,5 +1,11 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=PT+Serif&weight=300&size=25&duration=4000&pause=20&color=0E8C7F&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;I'm+Alvin+Chin" alt="Typing SVG" />
+    <a href="https://linkedin.com/in/alvinchin168/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+    <a href="mailto:alvinwen3@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+    </a>
 </h1>
 
 <h3 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h3>
