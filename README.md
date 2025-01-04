@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Playwright-0A0A0A?style=for-the-badge&logo=playwright&logoColor=white" />
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Airflow-017C75?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Apache Airflow-017C75?style=for-the-badge&logo=apache-airflow&logoColor=white" />
     <img src="https://img.shields.io/badge/SingleStore-004C60?style=for-the-badge&logo=singlestore&logoColor=white" />
     <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
