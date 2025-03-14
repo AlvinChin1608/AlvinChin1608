@@ -2,9 +2,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=35&duration=4000&pause=1200&center=true&vCenter=true&width=1080&height=100&color=096ADA&lines=Hi!+Welcome+to+my+profile;I'm+Alvin+Chin+" alt="Typing SVG" style="max-width: 100%; height: auto;" />
 </h1>
 
-<div>
-    <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
-</div>
 
 <h3 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h3>
 <p align="center">
